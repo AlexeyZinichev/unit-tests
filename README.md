@@ -1,5 +1,7 @@
 # Health Status Checker
 
+[![Node.js CI](https://github.com/AlexeyZinichev/unit-tests/actions/workflows/nodejs.yml/badge.svg)](https://github.com/AlexeyZinichev/unit-tests/actions/workflows/nodejs.yml)
+
 > Функция для определения статуса здоровья игрового персонажа.
 
 ## Описание
