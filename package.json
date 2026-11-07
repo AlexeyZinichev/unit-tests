@@ -1,0 +1,22 @@
+{
+  "name": "unit-tests",
+  "version": "1.0.0",
+  "description": "Определение статуса здоровья персонажа",
+  "license": "ISC",
+  "author": "Алексей Зиничев",
+  "type": "module",
+  "main": "src/health.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "lint": "eslint src __tests__"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.29.13",
+    "@babel/preset-env": "^7.29.7",
+    "core-js": "^3.51.0",
+    "eslint": "^8.57.1",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.32.0",
+    "jest": "^29.7.0"
+  }
+}
